@@ -2,6 +2,7 @@
 title: test
 date: 2022-09-01 10:20:06
 tags:
+cover: https://shp.qpic.cn/cms_pic/2650756528/e7d24fee3513f72384e6f554b31b2b67/0.png
 ---
 
 

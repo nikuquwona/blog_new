@@ -1,5 +1,6 @@
 ---
 title: Hello World
+cover: https://shp.qpic.cn/cms_pic/2490000059/25b315e931a988c03f01dbd7003ce762/0.png
 ---
 Welcome to [Hexo](https://hexo.io/)! This is your very first post. Check [documentation](https://hexo.io/docs/) for more info. If you get any problems when using Hexo, you can find the answer in [troubleshooting](https://hexo.io/docs/troubleshooting.html) or you can ask me on [GitHub](https://github.com/hexojs/hexo/issues).
 
