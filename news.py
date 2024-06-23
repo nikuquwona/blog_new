@@ -9,6 +9,7 @@ import re
 def get_us_news():
     # 使用NewsAPI获取美国新闻
     API_KEY = "c06f14d0e7f74454b214d2afd3d3b300"
+    #https://newsapi.org/v2/everything?q=tesla&from=2024-05-23&sortBy=publishedAt&apiKey=c06f14d0e7f74454b214d2afd3d3b300
     url = f"https://newsapi.org/v2/top-headlines?country=us&apiKey={API_KEY}"
     response = requests.get(url)
     if response.status_code == 200:
